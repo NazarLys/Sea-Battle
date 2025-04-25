@@ -1,4 +1,4 @@
-# Sea-Battle
+# Battleship Game in Python
 Quick game project for my university
 
 # Battleship - Game Specifications
